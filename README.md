@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# TeleMarketing_Success
 Succes of telemarketing for a bank in Python and Sklearn
 Project: Predicting the success of bank telemarketing using Python and Scikit-learn; with the objective of comparing multiple classifiers based on different evaluation metrics using Python
 -	Data preparation: Obtained the data from UCI ML repository with 20 features and 41,188 instances. Explored the data using scatter plot visualization (for continuous features) and cross-tabs (for class variables) and performed dummy coding for class variables.
